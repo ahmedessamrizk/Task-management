@@ -17,7 +17,7 @@ A secure and scalable **Task Management API** designed to handle users, tasks, a
 ---
 
 ## 🧭 ERD (Entity Relationship Diagram)
-![ERD](https://drive.google.com/file/d/11Pqxlhjj9eA1qjitlgr3fdXSVTxvBxcw/view?usp=sharing)
+![ERD](https://drive.google.com/uc?export=view&id=11Pqxlhjj9eA1qjitlgr3fdXSVTxvBxcw)
 
 ### 🔗 Relationships
 - A **User** can have many **Tasks**
