@@ -55,9 +55,6 @@ A secure and scalable **Task Management API** designed to handle users, tasks, a
 
 ## 🛠️ Technologies Used
 
-- **ExpressJs** - as the backend framework to handle routing and server logic.  
+- **NestJs** - as the backend framework to handle routing and server logic.  
 - **MongoDB** - for managing user, task, and category data.  
-- **cookie-parser** - for handling cookies in Express.  
-- **bcryptjs** - for hashing passwords.  
-- **nodemailer** - for sending emails to users.  
-- **yup** - for schema-based validation of request data.  
+- **bcryptjs** - for hashing passwords.    
